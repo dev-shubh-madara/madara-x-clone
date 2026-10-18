@@ -7,3 +7,7 @@ A personal project by Madara Defaulter.
 
 ## Contact
 GitHub: [dev-shubh-madara](https://github.com/dev-shubh-madara)
+
+## Team
+- dev-shubh-madara
+- shubhkumarmishra82-debug
